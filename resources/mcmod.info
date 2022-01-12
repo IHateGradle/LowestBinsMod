@@ -1,0 +1,14 @@
+[
+	{
+		"modid": "${modId}",
+		"name": "${modName}",
+		"description": "Hyperuseful features.",
+		"version": "${version}",
+		"mcversion": "1.12.2",
+		"updateUrl": "",
+		"authorList": [
+			"nessiesson",
+			"robitobi01"
+		]
+	}
+]
